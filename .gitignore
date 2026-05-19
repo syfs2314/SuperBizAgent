@@ -54,3 +54,7 @@ uploads/
 ### docker
 /volumes
 /server.pid
+
+### md ###
+README.md
+LICENSE.md
